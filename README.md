@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Suil%20Hwang&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Suil%20Hwang)
 <!--
 **suil-hwang/suil-hwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
