@@ -7,3 +7,8 @@
 
 * **Hanyang University ERICA**, Ansan, South Korea
     * **B.S.** in [Applied Physics](http://appliedphysics.hanyang.ac.kr/) & [Computer Science](http://sw.hanyang.ac.kr/) (2021.03 ~ 2025.02)
+
+<br>
+
+### I'm Interest in   
+🔎 **Computer Graphics**<br>
