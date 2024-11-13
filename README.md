@@ -10,6 +10,6 @@
 
 <br>
 
-### I'm Interest in   
+### I'm Interested in   
 🔎 **Computer Graphics**<br>
 🔎 **3D Vision**<br>
