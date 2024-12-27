@@ -7,7 +7,7 @@
 
 * **Hanyang University ERICA**, Ansan, South Korea
     * **B.S.** in [Applied Physics](http://appliedphysics.hanyang.ac.kr/) & [Computer Science](http://sw.hanyang.ac.kr/) (2021.03 ~ 2025.02)
-    * **M.S.** in [computer Science & Engineering](http://cse.hanyang.ac.kr/) (2025.03 ~ )
+    * **M.S.** in [Computer Science & Engineering](http://cse.hanyang.ac.kr/) (2025.03 ~ )
 
 <br>
 
