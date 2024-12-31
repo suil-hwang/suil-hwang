@@ -13,4 +13,4 @@
 
 ### I'm Interested in   
 🔎 **Computer Graphics**<br>
-🔎 **3D Vision**<br>
+🔎 **Geometry Processing**<br>
